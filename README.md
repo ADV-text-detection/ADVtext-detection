@@ -1,0 +1,2 @@
+# Adversary Text Detection: Bert(Roberta) V.S. ChatGPT(GPT-3.5 turbo)
+Hi! Here's the adversary detection for essay paragraph, the course project for DDA4210, CUHKSZ. We tried to enhance the generalibility of Bert and Roberta in detection GPT-written paragraph by leveraging multi-round tuning and adversary. We also implemented some current methods in detection, see more information in our essay: 4210 Main Project.pdf. 
